@@ -119,4 +119,4 @@ def chat(sock, name):
         message = sock.recv(1024)
         if len(message) > 0:
             sock.send(message)
-
+            pass
