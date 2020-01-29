@@ -1,1 +1,1 @@
-# arcanoid_server
+# Server for arcanoid
