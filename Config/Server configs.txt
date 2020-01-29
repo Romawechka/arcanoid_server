@@ -1,0 +1,13 @@
+server ip = localhost
+server port = 9090
+
+server chat ip = localhost
+server chat port = 9091
+
+server achievement ip = localhost
+server achievement port = 9091
+
+database host = localhost
+database dbname = postgres
+database username = student
+database password = study
